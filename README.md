@@ -103,6 +103,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
               Body 
             ▪ product_id (required)
               
- 
+        FOR BETTER PRESANTATION OF ENDPOINTS PLEASE FIND 3rdPartyApiTest.postman_collection.json File AND IMPORT IT INTO POSTMAN
 
 
