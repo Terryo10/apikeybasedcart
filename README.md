@@ -27,7 +27,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
     • Create a database and create .env file 
     • run php artisan migrate 
     • 1st step register an account via
-	Authorization header 
 		Register Return URL: http://127.0.0.1:8000/api/register
 		Method Post
     Body 
@@ -38,8 +37,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
             
     
 
-    •  Log into account 
-	Authorization header 
+    •  Log into account  
 		Register Return URL: http://127.0.0.1:8000/api/login
 		Method Post
     Body 
